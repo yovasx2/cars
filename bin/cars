@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'pry'
+require 'cars'
+
+puts Cars::Window.new.show
