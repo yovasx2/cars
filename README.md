@@ -8,7 +8,7 @@
 
 * [Run project](#run-project)
 
-* [Controls] (#controls)
+* [Controls](#controls)
 
 * [Contribute](#contribute)
 
@@ -22,9 +22,9 @@
 
 This project is a simple car game in ruby using gosu (2d game library) packed in a gem
 
-* [Gosu](https://www.libgosu.org/index.html)
-
 * [Ruby](https://www.ruby-lang.org/en/)
+
+* [Gosu](https://www.libgosu.org/index.html)
 
 <a name="requirements"/>
 
@@ -52,8 +52,6 @@ In order to execute this project you need to install:
 
      $ cd gosu-cars && ruby -Ilib ./bin/cars
 
-<a name="contribute"/>
-
 <a name="controls"/>
 
 ## Controls
@@ -62,6 +60,8 @@ In order to execute this project you need to install:
 2. `r` to restart
 3. `left` to move blue car to left
 4. `right` to move blue car to right
+
+<a name="contribute"/>
 
 ## Contribute
 
