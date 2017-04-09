@@ -46,11 +46,11 @@ In order to execute this project you need to install:
 
 1. Clone the repo
 
-     $ git clone https://github.com/yovasx2/gosu-cars
+       $ git clone https://github.com/yovasx2/gosu-cars
 
 2. Move into it and install dependencies
 
-     $ cd gosu-cars && ruby -Ilib ./bin/cars
+       $ cd gosu-cars && ruby -Ilib ./bin/cars
 
 <a name="controls"/>
 
@@ -58,8 +58,8 @@ In order to execute this project you need to install:
 
 1. `Esc` to exit
 2. `r` to restart
-3. `left` to move blue car to left
-4. `right` to move blue car to right
+3. `⇦` to move blue car to left
+4. `⇨` to move blue car to right
 
 <a name="contribute"/>
 
