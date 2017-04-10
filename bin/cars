@@ -3,4 +3,4 @@
 require 'pry'
 require 'cars'
 
-puts Cars::Window.new.show
+Cars::Window.new.show

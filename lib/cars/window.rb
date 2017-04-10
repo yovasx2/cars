@@ -41,8 +41,8 @@ module Cars
     private
 
     def load_assets
-      @back = Gosu::Image.new('lib/media/back.png')
-      @road = Gosu::Image.new('lib/media/road.png')
+      @back = Gosu::Image.new(File.join(Gosu::Image::MEDIA_PATH, 'back.png'))
+      @road = Gosu::Image.new(File.join(Gosu::Image::MEDIA_PATH, 'road.png'))
       @font ||= Gosu::Font.new(20)
 
       # Left paddings

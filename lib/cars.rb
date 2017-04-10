@@ -1,6 +1,5 @@
-$: << './lib'
-
 require 'gosu'
+
 require 'cars/window'
 require 'cars/bump_generator'
 require 'cars/enemy'

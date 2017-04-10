@@ -1,8 +1,8 @@
 module Cars
   class BumpGenerator
     def initialize(window)
-      @left    = Gosu::Image.new('lib/media/left.png')
-      @right   = Gosu::Image.new('lib/media/right.png')
+      @left    = Gosu::Image.new(File.join(Gosu::Image::MEDIA_PATH, 'left.png'))
+      @right   = Gosu::Image.new(File.join(Gosu::Image::MEDIA_PATH, 'right.png'))
       @window  = window
       @y1, @y2 =-window.height, 0
     end

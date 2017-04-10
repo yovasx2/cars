@@ -4,7 +4,7 @@ module Cars
 
     def initialize(window)
       @window = window
-      @car = Gosu::Image.new('lib/media/blue.png')
+      @car = Gosu::Image.new(File.join(Gosu::Image::MEDIA_PATH, 'blue.png'))
       reset
     end
 

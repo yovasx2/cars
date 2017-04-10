@@ -4,7 +4,7 @@ module Cars
 
     def initialize(window)
       @window = window
-      @car    = Gosu::Image.new('lib/media/red.png', tileable: true)
+      @car    = Gosu::Image.new(File.join(Gosu::Image::MEDIA_PATH,'red.png'))
       col     = rand(3)
       # Center car in road
       @x      = window.padding_road + rand(window.road.width*2-@car.width)
