@@ -1,4 +1,4 @@
-# Gosu Cars
+# Cars
 
 ## Content
 
