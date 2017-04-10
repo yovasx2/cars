@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'cars'
-  s.version     = '0.0.5'
+  s.version     = '0.0.6'
   s.date        = '2017-04-07'
   s.summary     = 'A simple 2D cars game with gosu'
   s.description = 'A 2D cars game with gosu'
