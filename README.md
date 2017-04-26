@@ -46,11 +46,11 @@ In order to execute this project you need to install:
 
 1. Clone the repo
 
-       $ git clone https://github.com/yovasx2/gosu-cars
+       $ git clone https://github.com/yovasx2/cars
 
 2. Move into it and install dependencies
 
-       $ cd gosu-cars && ruby -Ilib ./bin/cars
+       $ cd cars && ruby -Ilib ./bin/cars
 
 <a name="controls"/>
 
@@ -67,11 +67,11 @@ In order to execute this project you need to install:
 
 You can contribute to this project in many forms:
 
-* [Reporting bugs](https://github.com/yovasx2/gosu-cars/issues)
+* [Reporting bugs](https://github.com/yovasx2/cars/issues)
 
-* [Writing issues](https://github.com/yovasx2/gosu-cars/issues)
+* [Writing issues](https://github.com/yovasx2/cars/issues)
 
-* Adding [features](https://github.com/yovasx2/gosu-cars/pulls) (examples)
+* Adding [features](https://github.com/yovasx2/cars/pulls) (examples)
 
 <a name="author"/>
 
