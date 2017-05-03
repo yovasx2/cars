@@ -26,6 +26,8 @@ This project is a simple car game in ruby using gosu (2d game library) packed in
 
 * [Gosu](https://www.libgosu.org/index.html)
 
+Consult [ruby presentation](https://github.com/yovasx2/cars/blob/master/ruby.pdf) for more info
+
 <a name="requirements"/>
 
 ## Requirements
